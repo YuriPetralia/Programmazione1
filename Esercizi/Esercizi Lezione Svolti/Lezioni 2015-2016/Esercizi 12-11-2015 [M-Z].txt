@@ -1,0 +1,48 @@
+Esercizi assegnati da Cincotti giorno 12/11/2015:
+
+ESERCIZIO(1){
+  Date due stringhe S e T dire se la stringa T è sottostringa
+  di S;
+}
+
+ESEMPIO(1){
+  string S = "Programmatori Incalliti";
+  string T = "grammatori";
+
+  T è sottostringa di S? Si. Perché?;
+}
+
+ESERCIZIO(2){
+  Data in input una stringa dire se essa è palindroma o meno;
+}
+
+ESERCIZIO(3){
+  Dati due array di char C e X, testare se X è sottoinsieme in C;
+}
+
+ESEMPIO(3){
+  C = {'n', 'o', 'o', 'b'};
+  X = {'o', 'b'};
+
+  ...
+
+  X è sottoinsieme di C? Si. Perchè?;
+}
+
+ESERCIZIO(4){
+  Generare una stringa di lunghezza casuale (da 5 a 20) con 
+  caratteri casuali che vanno dalla 'a' alla 'z';
+}
+
+ESERCIZIO(5){
+  Generare una stringa di lunghezza 5 con la seguente distribu-
+  -zione: a: 27%, b: 5%, c: 23%, d: 45%;
+}
+  
+ESERCIZIO(6){
+  Data una stringa, invertirla e stamparla in output;
+}
+
+ESERCIZIO(7){
+  Dato un array di long calcolare la % di elementi divisibili per 3;
+}

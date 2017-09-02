@@ -1,0 +1,69 @@
+Esercizi assegnati da Cincotti giorno 5/11/2015:
+
+ESERCIZIO(1){
+  Generare n righe consecutive (con n dato in input) che 
+  stampano valori da 10 ad 1 e da 1 a 10;
+}
+
+ESEMPIO(1){
+  n = 5;
+
+  ...
+
+  OUTPUT:
+  10 9 8 7 6 5 4 3 2 1
+  1 2 3 4 5 6 7 8 9 10
+  10 9 8 7 6 5 4 3 2 1
+  1 2 3 4 5 6 7 8 9 10
+  10 9 8 7 6 5 4 3 2 1
+}
+
+ESERCIZIO(2){
+  Lanciare un dado finché non escono due sei consecutivi
+  e al termine visualizzare il numero di lanci;
+}
+
+ESERCIZIO(3){
+  Lanciare un dado finché non escono consecutivamente 5 facce uguali
+  e stampare a video il numero di lanci che sono stati necessari ed
+  il valore che si è ripetuto;
+}
+
+ESERCIZIO(4){ Risolto
+  Inizializzare un vettore con n = 2121 locazioni.
+  L'ultima locazione deve contenere 10988, la penultima 10985, 10982
+  ecc.;
+}
+
+ESERCIZIO(5){
+  Dati 2 vettori A e B di dimensione n fare la somma delle
+  rispettive posizioni in un terzo vettore C;
+}
+
+ESEMPIO(5){
+  n = 2;
+
+  A[2] = {10, 20};
+  B[2] = {5, 10};
+
+  ...
+
+  C[2] = {15, 30};
+}
+
+ESERCIZIO(6){
+  Dato un vettore A dire se il contenuto di una variabile x data
+  in input è presente nel vettore;
+}
+
+ESERCIZIO(7){
+  Dato un vettore dire se tutti gli elementi sono pari;
+}
+
+ESERCIZIO(8){
+  Dati x ed n in input, stampare in output il risultato della sommatoria per i che va da 0 ad n di (x^i)/(i!);
+}
+
+ESERCIZIO(9){
+  Dato un array dire se esiste un elemento che si ripete due  volte;
+}

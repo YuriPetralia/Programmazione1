@@ -1,0 +1,39 @@
+Esercizi assegnati dal prof. Cincotti giorno 17/11/2015:
+
+ESERCIZIO(1){
+  Stimare probabilisticamente il numero pigreco:
+    - Creare un bersaglio quadrato di lato orizzontale noto;
+    - Si lanci una freccetta all'interno del bersaglio, con 
+      distribuzione uniforme;
+    - Si ha successo se la freccetta cade all'interno del cerchio
+      inscritto al quadrato;
+    - Si effettui un numero significativo di lanci e si conti il
+      numero dei successi;
+    - Dunque PiGreco = ... ;
+  
+  Indizio --> successi : prove = areaCerchio : areaQuadrato
+
+ESERCIZIO(2){
+  Data una matrice 8x8 di boolean costruire una scacchiera   classica da dama dove se la casella è true è bianca, se è false nera;
+}
+
+ESERCIZIO(3){
+  Data una matrice dire se esiste una colonna nulla;
+}
+
+ESERCIZIO(4){
+  Data una matrice stampare a video la media degli elementi nella diagonale secondaria;
+}
+
+ESERCIZIO(5){
+  Data una matrice ricercare un elemento x;
+}
+
+ESERCIZIO(6){
+  Data una matrice dire se esistono due elementi uguali;
+}
+
+ESERCIZIO(7){
+  Data una matrice di stringhe restituire una stringa dove siano
+  presenti nell'ordine tutte le vocali presenti in tutte le   varie stringhe;
+}

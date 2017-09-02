@@ -1,0 +1,13 @@
+ESERCIZIO(1){
+    Data una matrice di stringhe, creare un metodo che ritorna 
+    una stringa composta dalla concatenazione di tutti i suffissi 
+    di lunghezza 3 delle stringhe di posizione dispari della terza colonna.
+    N.B. POSIZIONE dispari, non INDICE dispari...
+}
+
+ESERCIZIO(2){
+    Data una matrice quadrata di interi, dire se esiste una qualche  
+    diagonale parallela alla principale la cui somma degli elementi
+    è divisibile per 7. (inclusa la principale)
+}
+    

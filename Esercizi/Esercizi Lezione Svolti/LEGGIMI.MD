@@ -1,0 +1,2 @@
+Se volete provare il codice, copiatelo sul vostro pc prima di compilarlo, in modo da non riempire queste cartelle di file oggetto e/o eseguibili.
+Chiunque trovi codesti file può cancellarli. Grazie per la collaborazione.

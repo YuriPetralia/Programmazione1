@@ -1,0 +1,9 @@
+ESERCIZIO(1){
+    Dato un array di interi, ordinare in ordine non decrescente i valori contenuti in esso.
+}
+
+ESERCIZIO(2){
+    Dato un array di 3 elementi, dire se in una matrice esiste lo stesso
+    array di numeri contigui in una qualche colonna ed in una qualsiasi 
+    posizione della colonna della matrice.
+}

@@ -1,0 +1,28 @@
+Esercizi assegnati dal prof. Cincotti giorno 26/11/2015:
+
+ESERCIZIO(1){
+    Data una matrice di stringhe dire se esiste una colonna
+    in cui siano presenti due stringhe con lo stesso prefisso
+    di lunghezza 3.
+}
+
+ESERCIZIO(2){
+    Sviluppare la seguente classe: ( - significa private)
+
+    class Punto{
+	VARIABILI:
+	- float x;
+	- float y;
+	- char name;
+
+	METODI:
+	Punto();
+	void setCoordinate(float, float);
+	void setX();
+	void setY();
+	float getX();
+	float getY();
+	float distanza(Punto);
+	float distanzaOrigine();
+	float simmetrico();
+}
